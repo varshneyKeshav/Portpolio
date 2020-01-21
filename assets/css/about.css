@@ -328,3 +328,129 @@ div.intro-text p i.fa-wine-glass{
 .modal-content{
   width: auto !important;
 }
+
+
+.c_d__box {
+  padding: 5px;
+  background-color: #f2f2f2;
+  border-radius: 9px;
+  height: 420px;
+}
+
+.c_d__box .bluebg {
+  background-color: #5ba2d8;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.c_d__box .greenbg {
+  background-color: #6ec27a;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.c_d__box.whitebg {
+  background-color: #fff;
+}
+
+.c_d__box--head {
+  padding: 24px 24px 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 140px;
+}
+
+.c_d__box--head h5 {
+  color: #fff;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 22px;
+}
+
+.c_d__box--head h5 span {
+  display: block;
+  text-transform: capitalize;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.c_d__box--circle {
+  width: 100px;
+  height: 100px;
+  background-color: #fff;
+  border: solid 5px #fff;
+  border-radius: 50%;
+  margin: -48px auto 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  overflow: hidden;
+}
+
+.c_d__box--circle.main-circle {
+      margin: 0;
+    width: 150px;
+    height: 150px;
+    border: #ececec solid 5px;
+    padding: 16px;
+}
+
+.c_d__box--circle img {
+  width: 112%;
+}
+
+.c_d__box--content {
+  padding: 13px;
+  border-bottom: solid 1px #a1a1a1;
+}
+
+.c_d__box--content p {
+  font-size: 14px;
+  color: #424242;
+}
+
+.c_d__box--content h5 {
+  color: #1d1d1d;
+  margin-bottom: 0;
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.c_d__box--content h6 {
+  font-size: 20px;
+  color: #1d1d1d;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.c_d__box--footer {
+  padding: 20px 13px 10px;
+}
+
+.c_d__box--footer p {
+  font-size: 14px;
+  color: #424242;
+  margin-bottom: 5px;
+}
+
+.c_d__box--footer h5 {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+
